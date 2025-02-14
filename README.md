@@ -1,7 +1,7 @@
 # Rotating Base Firmware for ESP32
 
 This is a firmware for **ESP32** that controls a **Rotating Base** via a web interface.  
-The web page allows adjusting the **rotation speed**, **changing direction**, and **saving settings**, while settings are saved automatically.
+The web page allows adjusting the **rotation speed**, **changing direction**, while settings are saved automatically.
 
 ---
 
@@ -15,8 +15,8 @@ The web page allows adjusting the **rotation speed**, **changing direction**, an
 ---
 
 ## 📌 Useful Links  
-🔹 [3D Printable Parts on Thingiverse](URL_Thingiverse)  
-🔹 [Assembly Guide on YouTube](URL_YouTube)
+🔹 [3D Printable Parts on Thingiverse](https://www.thingiverse.com/thing:6948689)  
+🔹 [Assembly on YouTube](https://youtu.be/MUX3Amgsu-s)
 
 ---
 
@@ -24,7 +24,7 @@ The web page allows adjusting the **rotation speed**, **changing direction**, an
 
 1️⃣ **Clone the repository:**  
 ```sh
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/pa-pe/rotating_base.git
 ```
 
 2️⃣ **Open `RotatingBase.ino` in Arduino IDE**  
